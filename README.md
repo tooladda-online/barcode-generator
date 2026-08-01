@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏷️ Barcode Generator
+# 🖼️ Barcode Generator
 
 ### Use Barcode Generator free on ToolAdda — quick, accurate, and browser-based.
 
